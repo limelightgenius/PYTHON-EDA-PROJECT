@@ -9,7 +9,7 @@ Sales Performance & Customer Insights
 Analyst: Ifeoluwa Samuel Sunday
 Role: Aspiring Data Analyst
 Project Date: September 2025
-Tools Used: Python (Pandas, Matplotlib)
+Tools Used: Python (Pandas, Matplotlib,seaborn)
 
 About This Project
 As a beginner data analyst, I worked on cleaning and analyzing ShopSmart's sales data to understand their business performance. This project helped me practice real-world data cleaning, analysis, and visualization skills using Python.
